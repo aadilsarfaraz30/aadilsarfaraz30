@@ -34,10 +34,3 @@
 ![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadilsarfaraz30&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadilsarfaraz30&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
-</p>
