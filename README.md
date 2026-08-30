@@ -8,7 +8,7 @@
 
 ---
 
-- 🔭 Currently building at **Gamemano**
+- 🔭 Currently building at **TCS**
 - 🌱 Always exploring the latest in web tech & frontend tooling
 - 🎌 Into anime, good coffee, and discovering new places
 - 📫 Open to interesting collaborations — let's connect
