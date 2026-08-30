@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Frontend Developer · crafting fast, clean web experiences</b><br><br>
-  <img src="https://img.shields.io/badge/@ Gamemano-0f6e56?style=flat-square" />
+  <img src="https://img.shields.io/badge/@ TCS-0f6e56?style=flat-square" />
   <img src="https://img.shields.io/badge/Open to collabs-185fa5?style=flat-square" />
 </p>
 
